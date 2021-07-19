@@ -12,15 +12,15 @@ Using API's weather data across cities was collected to recommend ideal hotels b
 	
 - **Customer Travel Destinations Map**	
 
-![alt text](XXX "WeatherPy_vacation_map")
+![alt text](https://github.com/Karenjakins/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png "WeatherPy_vacation_map")
   
 - **Travel Itinerary Map**	
 
-![alt text](XXX "WeatherPy_travel_map")
+![alt text](https://github.com/Karenjakins/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png "WeatherPy_travel_map")
 
 Here is the map of a trip from Spain to France. 
 
-![alt text](XXX "WeatherPy_travel_map_markers")
+![alt text](https://github.com/Karenjakins/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png "WeatherPy_travel_map_markers")
 
 The map is able to display all necessary information in regards to the city, weather, and hotel info. 
 
